@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-I'm Vyonnie! I like inventing cool stuff at the intersection of physics & utility :)
+I'm Vyonnie! I love inventing cool stuff at the intersection of physics & utility :)
+
+Been trying to learn game development and hardware engineering recently. 🎮
 
 ---
 ### Tools & Tech
