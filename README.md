@@ -1,34 +1,34 @@
-## Hi there 👋
 
-I'm Vyonnie! I love inventing cool stuff at the intersection of physics & medicine :)
+<h3 align="center">hi, i'm vyonnie 🩻</h3>
 
-I've been learning game development and hardware engineering recently. 🎮
+<p align="center">
+i'm 17 and i'm passionate about quantum mechanics & radiology :)</p>
+
+<p align="center">
+i also love building cool stuff at the intersection of physics & medicine! 
+</p>
 
 ---
-### Tools & Tech
 
-* Python, C#, HTML/CSS/JS
-* VS Code
-* Unity
+### recent projects
 
-[/]: # (Other Interests)
+- **[fairygotchi](https://github.com/vynkyt/fairygotchi)**: virtual fairy that takes care of ME rather than me of it (gives reminders at intervals and acts silly)
+- **[snow angel](https://github.com/vynkyt/snow-angel)**: snowglobe trinket with cute angel inside and a false bottom (3D modelling, cad)
+- **[data labeller](https://datalabeller.vkyt.hackclub.app/)**: media annotation pipeline for images, videos, and audio datasets, with automated quality control using AI
+- **[overtureOS](https://overtureos.vercel.app/)**: fairytale-themed web-based OS for personal productivity
+- **[study nook](https://cosy-study-dashboard.vercel.app/)**: study + life tracking dashboard with increasingly niche features
 
-[/]: # (* *Music*: piano, guitar, drums, singing, composing)
+### mini projects 
+- **[mini sql](http://mini-sql.vercel.app/)**: mini SQL engine that parses through local .db files
+- **[md-anki](https://md-anki.vercel.app/)**: converts .md to .apkg to import as an anki flashcard deck
 
-[/]: # (* *Performing arts*: dance **4 years ballet**, 1 year latin, 1 year hip-hop, 3 years k-pop, theatre)
+### currently learning
 
-[/]: # (* *Public speaking*: **debate**, motivational speech-giving)
+- hardware engineering
+- game development
 
-[/]: # (* *Academic interests*: **quantum mechanics**, neuroscience, game theory, philosophy)
+---
 
-[/]: # (* *Cosy hobbies*: reading, writing poetry, books, **weiqi/go/baduk**, researching)
-
-[/]: # (* *General arts*: **fashion design**, drawing, painting, crafting, crochet)
-[/]: # (* *Sports*: **fencing**, **figure skating**, futsal)
-[/]: # (* *Programming*: Python, C#, gamedev)
-
-
-
-
-
-
+<p align="center">
+  thanks for stopping by (●'◡'●)
+</p>
