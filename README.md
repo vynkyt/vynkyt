@@ -5,7 +5,7 @@
 i'm 17 and i'm passionate about quantum mechanics & radiology :)</p>
 
 <p align="center">
-i also love building cool stuff at the intersection of physics & medicine! learn more about me [here](https://vyonnie.vercel.app).
+i also love building cool stuff at the intersection of physics & medicine! learn more about me <a href ="https://vyonnie.vercel.app">here</a>.
 </p>
 
 ---
