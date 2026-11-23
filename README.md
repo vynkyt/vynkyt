@@ -19,8 +19,8 @@ i also love building cool stuff at the intersection of physics & medicine!
 - **[study nook](https://cosy-study-dashboard.vercel.app/)**: study + life tracking dashboard with increasingly niche features
 
 ### mini projects 
-- **[mini sql](http://mini-sql.vercel.app/)**: mini SQL engine that parses through local .db files
-- **[md-anki](https://md-anki.vercel.app/)**: converts .md to .apkg to import as an anki flashcard deck
+- **[mini sql](http://mini-sql.vercel.app/)**: mini SQL engine that parses through local `.db` files
+- **[md-anki](https://md-anki.vercel.app/)**: converts `.md` to `.apkg` for anki flashcards
 
 ### currently learning
 
