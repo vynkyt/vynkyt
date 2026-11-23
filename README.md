@@ -1,5 +1,5 @@
 
-<h3 align="center">hi, i'm vyonnie 🩻</h3>
+<h3 align="center">hi, i'm [vyonnie](https://vyonnie.vercel.app) 🩻</h3>
 
 <p align="center">
 i'm 17 and i'm passionate about quantum mechanics & radiology :)</p>
