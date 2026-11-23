@@ -32,3 +32,8 @@ i also love building cool stuff at the intersection of physics & medicine!
 <p align="center">
   thanks for stopping by (●'◡'●)
 </p>
+
+<!-- <p align="center">
+  PSST...enjoyed something i've made? <br>
+  <a href="KOFI_LINK">fuel my next rabbit hole</a>
+</p> -->
