@@ -1,11 +1,11 @@
 
-<h3 align="center">hi, i'm [vyonnie](https://vyonnie.vercel.app) 🩻</h3>
+<h3 align="center">hi, i'm vyonnie 🩻</h3>
 
 <p align="center">
 i'm 17 and i'm passionate about quantum mechanics & radiology :)</p>
 
 <p align="center">
-i also love building cool stuff at the intersection of physics & medicine! 
+i also love building cool stuff at the intersection of physics & medicine! learn more about me [here](https://vyonnie.vercel.app).
 </p>
 
 ---
